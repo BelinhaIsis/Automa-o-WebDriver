@@ -1,0 +1,12 @@
+Feature : Login Usuário
+     
+     Brackground : Logor usuário ativo
+
+     Cenário :
+     	Dado que estou no site no Quick Loja
+     	Então apresenta tela de login. 
+
+     	Login    Senha
+
+     	teste    123
+
